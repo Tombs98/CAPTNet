@@ -42,12 +42,30 @@ cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 
 ## Quick Run
 
-To test the [pre-trained models] (https://pan.baidu.com/s/1gSYyBbU5EagnoUR04zh-ZQ) password：Tomb
+To test the [pre-trained models](https://pan.baidu.com/s/1gSYyBbU5EagnoUR04zh-ZQ) password：Tomb
 
 
 ## Training and Evaluation
 
-Training and Testing codes for deblurring and deraining  are provided in their respective directories.
+#### Training 
+
+- Train the model with default arguments by running
+
+```
+python train.py
+```
+
+#### Evaluation 
+- Run
+```
+python test.py 
+```
+
+- To reproduce PSNR/SSIM scores of the paper , run 
+
+```
+python eval.py 
+```
 
 ## Results
 
