@@ -2,7 +2,7 @@
 
 # Prompt-based Ingredient-Oriented All-in-One Image Restoration
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](http://arxiv.org/abs/2302.09554)
+[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2309.03063)
 <hr />
 
 
