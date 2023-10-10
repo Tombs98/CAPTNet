@@ -90,7 +90,18 @@ python eval.py
 <img src = "./fig/deblur.png" width="900"></details>
 -->
  
+## Citations
+If our code helps your research or work, please consider citing our paper.
+The following is a BibTeX reference:
 
+```
+@article{Gao2023PIO,
+  title={Prompt-based Ingredient-Oriented All-in-One Image Restoration},
+  author={Hu Gao and Jing Yang and Ying Zhang and Ning Wang and Jingfan Yang and Depeng Dang},
+  journal={arXiv preprint arXiv:2309.03063},
+  year={2023}
+}
+```
 
 
 ## Contact
