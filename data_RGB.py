@@ -13,9 +13,7 @@ def get_test_data(rgb_dir, img_options):
     assert os.path.exists(rgb_dir)
     return DataLoaderTest(rgb_dir, img_options)
 
-def get_test_data2(rgb_dir, img_options):
-    assert os.path.exists(rgb_dir)
-    return DataLoaderTest2(rgb_dir, img_options)
+
 
 
 def debu():
