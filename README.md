@@ -45,7 +45,9 @@ cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 
 ## Quick Run
 
-To test the [pre-trained models](https://pan.baidu.com/s/1tPh4vtmewpZDEAEerwz9HA ) password：Tomb
+To test the pre-trained models [Baidu Drive](https://pan.baidu.com/s/1tPh4vtmewpZDEAEerwz9HA ) password：Tomb
+
+[Google Drive](https://drive.google.com/drive/folders/1aVF6aKCfCx1g7rEiFcpBYjisLrr674F4?usp=sharing)
 
 
 
