@@ -24,7 +24,6 @@
     <td><p align="center"><b>(a) The architecture of non-linear activation free block (NAFBlock). (b) Simplified channel attention (SCA). (c) Simplified prompt-based transformer (SPT) block. (d) Multi-head rearranged attention with prompts (MRAP).  (e) Simple gate feed-forward network (SGFN)</b></p></td>
 </table>
 
-## Our code will be publiced soon
 
 ## Installation
 The model is built in PyTorch 1.1.0 and tested on Ubuntu 16.04 environment (Python3.7, CUDA9.0, cuDNN7.5).
