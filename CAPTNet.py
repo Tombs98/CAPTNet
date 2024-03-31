@@ -13,7 +13,6 @@ class SimpleGate(nn.Module):
 
 
 
-    ##########################################################################
 
 class FeedForward(nn.Module):
     def __init__(self, dim, ffn_expansion_factor=2, bias=True):
@@ -35,8 +34,7 @@ class FeedForward(nn.Module):
         return x
 
 
-##########################################################################
-## Multi-DConv Head Transposed Self-Attention (MDTA)
+
 class Attention(nn.Module):
     def __init__(self, dim, num_heads, is_prompt=False, bias=True):
         super(Attention, self).__init__()
@@ -80,7 +78,6 @@ class Attention(nn.Module):
         return out
 
 
-##########################################################################
 class TransformerBlock(nn.Module):
     def __init__(self, dim, num_heads,prompt=False):
         super(TransformerBlock, self).__init__()
