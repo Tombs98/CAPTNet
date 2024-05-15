@@ -97,10 +97,13 @@ The following is a BibTeX reference:
 
 ```
 @article{Gao2023PIO,
-  title={Prompt-based Ingredient-Oriented All-in-One Image Restoration},
-  author={Hu Gao and Depeng Dang},
-  journal={arXiv preprint arXiv:2309.03063},
-  year={2023}
+ author={Gao, Hu and Yang, Jing and Zhang, Ying and Wang, Ning and Yang, Jingfan and Dang, Depeng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Prompt-based Ingredient-Oriented All-in-One Image Restoration}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1}
 }
 ```
 
