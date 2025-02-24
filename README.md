@@ -7,6 +7,12 @@
 
 
 > **Abstract:** Image restoration aims to recover the high-quality images from their degraded observations. Since most existing methods have been dedicated into single degradation removal, they may not yield optimal results on other types of degradations, which do not satisfy the applications in real world scenarios. In this paper, we propose a novel data ingredient-oriented approach that leverages prompt-based learning to enable a single model to efficiently tackle multiple image degradation tasks. Specifically, we utilize a encoder to capture features and introduce  prompts with degradation-specific information to guide the decoder in adaptively recovering images affected by various degradations. In order to model the local invariant properties and non-local information for high-quality image restoration, we combined CNNs operations and Transformers. Simultaneously, we made several key designs in the Transformer blocks (multi-head rearranged attention with prompts and simple-gate feed-forward network) to reduce computational requirements and selectively determines what information should be persevered to facilitate efficient recovery of potentially sharp images. Furthermore, we incorporate a feature fusion mechanism further explores the multi-scale information  to improve the aggregated features. The resulting tightly interlinked hierarchy architecture, named as CAPTNet, extensive experiments demonstrate that our method performs competitively to the  state-of-the-art.
+>
+
+
+## Noticed
+
+Since our code is too redundant, therefore, only the network model code is shown, which can be ported to your own code framework for use
 
 ## Network Architecture
 
